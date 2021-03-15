@@ -13,7 +13,7 @@
 <summary>About Me</summary>
   Hi!
 <p>
-I'm 11 years old and from Virginia. I'm a JavaScript, JQuery, C#, C, PHP, MySQL, SQL CSS, Java, Python, and HTML5 developer. I know 10 programming languages and I'm still learning most other programming languages.
+I'm 11 years old and from Virginia. I'm a JavaScript, JQuery, C#, C, PHP, MySQL, SQL, CSS, Java, Python, and HTML5 developer. I know 10 programming languages and I'm still learning most other programming languages.
 </p> 
 <p>
 - Blue hat    
