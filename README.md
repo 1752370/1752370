@@ -1,7 +1,7 @@
 # 1752370-
 
 <p align="center">
-    <img style="" width="128" height="128" src="https://avatars.githubusercontent.com/u/67921979?s=460&u=055c63402ce31fc18be47fa918fa986abfad92a2&v=4">
+    <img width="128" height="128" src="https://avatars.githubusercontent.com/u/67921979?s=460&u=055c63402ce31fc18be47fa918fa986abfad92a2&v=4">
 </p>
 <h1 align="center">1752370</h1>
 
