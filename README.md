@@ -9,13 +9,12 @@
 <p>- 👀 I’m interested in Computer Science</p>
 <p>- I’m currently learning most other languages</p>
 <hr>
-<details>
-<summary>About Me</summary>
+About Me
+<br>
   Hi 👋 I am 1752370!
 <p>
-I'm 11 years old and from Virginia. I'm a JavaScript, JQuery, C#, C, PHP, MySQL, SQL, CSS, Java, Python, and HTML5 developer. I know 11 programming languages and I'm still learning most other programming languages.
+I'm 11 years old and from Virginia. I'm a JavaScript, JQuery, C#, Jupyternotebooks, C, PHP, MySQL, SQL, CSS, Java, Python, and HTML5 developer. I know 11 programming languages and I'm still learning most other programming languages.
 </p> 
 <p>
 - 1752370    
 </p>    
-</details>
