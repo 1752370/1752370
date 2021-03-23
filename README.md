@@ -13,6 +13,7 @@ About Me
 <br>
   Hi 👋 I am 1752370!
 <p>
+    <br>
 I'm 11 years old and from Virginia. I'm a JavaScript, JQuery, C#, Jupyternotebooks, C, PHP, MySQL, SQL, CSS, Java, Python, and HTML5 developer. I know 11 programming languages and I'm still learning most other programming languages.
 </p> 
 <p>
